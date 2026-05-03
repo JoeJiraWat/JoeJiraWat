@@ -1,6 +1,23 @@
 # 💫 About Me:
 Hi there, I'm JoeJirawat or B4ByF4Lc0n 👋 <br>Full-Stack Developer | Embedded Systems | AI Engineer<br>I am a Freshman at  FIBO, KMUTT (Class of 2025). I thrive at the intersection of hardware and software, focusing on building intelligent systems that bridge the physical and digital worlds.
 
+### 🔭 My Core Focus
+- 📡 **Aerospace & Communication:** Currently serving as the **Communication Team Lead at KLONAS**. My primary focus is on **Air-to-Ground signal transmission systems** and the development of **Auto-Tracking Antenna** technology.
+- 🧠 **Applied AI & Data Science:** Deeply interested in the full spectrum of AI, including:
+    - **Computer Vision & Image Processing** for spatial awareness.
+    - **Natural Language Processing (NLP)** and **Tabular Data** analysis.
+    - **Digital Signal Processing (DSP)** for communication and sensor data.
+- 🤖 **Robotics & IoT:** Focusing on autonomous navigation, **ROS**, and high-performance embedded control.
+
+### 🛠️ Tech Stack & Specialized Tools
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `C`, `C++`, `C#`, `Rust`, `Python`, `Go`, `Java`, `JS/TS`, `Dart`, `SQL` |
+| **AI / Data** | `PyTorch`, `TensorFlow`, `OpenCV`, `fastAI`, `Scikit-learn`, `MATLAB` |
+| **Embedded & Systems** | `ROS`, `Arduino`, `ESP-NOW`, `Signal Processing`, `Communication Networks` |
+| **Software Dev** | `SpringBoot`, `Next.js`, `FastAPI`, `Node.js`, `Flutter`, `MongoDB` |
+| **Simulations** | `Unity`, `Unreal Engine`, `Three.js` |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/f4lc0n_b4by) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jirawat-donboran-92aa90400/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@b4byf4lc0n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joejiraw@gmail.com) 
