@@ -60,6 +60,7 @@ Hi there, I'm JoeJirawat or B4ByF4Lc0n 👋 <br>Full-Stack Developer | Embedded 
 ![](https://github-readme-stats.shion.dev/api?username=JoeJirawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=JoeJirawat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JoeJirawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=b4byf4lc0n&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 ---
 [![](https://komarev.com/ghpvc/?username=JoeJirawat&icon=0&color=0)](https://visitcount.itsvg.in)
