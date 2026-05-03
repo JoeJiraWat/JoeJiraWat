@@ -7,7 +7,7 @@
 </div>
 
 # 👋 About Me:
-Hi there, I'm JoeJirawat or B4ByF4Lc0n 👋 <br>Full-Stack Developer | Embedded Systems | AI Engineer<br>I am a Freshman at  FIBO, KMUTT <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1RAxuVp_xv7Y5qV-b_RYmuy2PLDxEj20ug&s" height="40" width="40" alt="fibo"> (Class of 2025). I thrive at the intersection of hardware and software, focusing on building intelligent systems that bridge the physical and digital worlds.
+Hi there, I'm JoeJirawat or B4ByF4Lc0n 👋 <br>Full-Stack Developer | Embedded Systems | AI Engineer<br>I am a Freshman at  FIBO, KMUTT (Class of 2025). <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1RAxuVp_xv7Y5qV-b_RYmuy2PLDxEj20ug&s" height="40" width="40" alt="fibo"> I thrive at the intersection of hardware and software, focusing on building intelligent systems that bridge the physical and digital worlds.
 
 ### 🔭 My Core Focus
 *   📡 **Aerospace & Communication:** Serving as **Communication Team Lead at KLONAS Club** <a href="https://www.instagram.com/klonas.team/"><img src="https://instagram.fbkk28-1.fna.fbcdn.net/v/t51.82787-19/543804354_17845723053561816_2305154193701474219_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbkk28-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFe2KjweSLJ9HGqAsOZMEAli1D-EIS1cYtcIb3cnv3qXYCF-eMuGvYozL-h-EmaF7I&_nc_ohc=pxxMsu7PGWgQ7kNvwGiuNOj&_nc_gid=hGu5tK9gqjnp0yzaW5FTig&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Af6CshQquTe9yC_FJkrZgDolm1kOUMz9c_LrgpOSO7IQvQ&oe=69FD6B9E&_nc_sid=7a9f4b" width="40" height="40" alt="KLONAS Logo" valign="middle"></a>. Focusing on **Air-to-Ground signal transmission** and **Auto-Tracking Antenna** systems.
